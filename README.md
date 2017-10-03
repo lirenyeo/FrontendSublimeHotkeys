@@ -3,9 +3,7 @@
 A collection of MacOS Sublime hotkeys I use frequently as a frontend developer dealing with HTML, CSS and Javascript (React).
 
 ## Getting Started
-Every hotkey here is the default from MacOS Sublime 3 and Packages that I installed.
-
-No custom key mapping is required.
+Every hotkey here is the default from MacOS Sublime 3 and Packages that I installed. No custom key mapping is required.
 
 ### Prerequisites
 The foollowing Sublime Packages are needed for these hotkeys to work:
