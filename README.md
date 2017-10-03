@@ -1,6 +1,6 @@
 # The Ultimate Sublime Hotkeys for Frontend Web Developer
 
-A collection of MacOS Sublime hotkeys I use frequently as a frontend developer dealing with HTML, CSS and Javascript.
+A collection of MacOS Sublime hotkeys I use frequently as a frontend developer dealing with HTML, CSS and Javascript (React).
 
 ## Getting Started
 Every hotkey here is the default from MacOS Sublime 3 and Packages that I installed.
@@ -21,26 +21,17 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
 ## Hotkeys
 *HTML tags*
     
-    
     wrap line with <p> tag: ^ + ⇧ + W
     wrap line with custom tag: ^ + W
+    
     turn current text into tags: ^ + E
     remove html tag from line: ⌘ + '
-    Toggle between <Tag /> & <Tag></Tag>: ⌘ + ⇧ + '
-    (Do it twice to remove tag contents)
-
-    select the html tags: ⌘ + ⇧ + K
+    toggle between <Tag /> & <Tag></Tag>: ⌘ + ⇧ + '
+    (Repeat twice to remove tag contents)
+    
     next/prev tag without content (Edit Point): ^ + ⌥ + ← or →
-    go to matching pair: ^ + ⇧ + T
+    go to matching tag pair: ^ + ⇧ + T
 
-    
-*Color Highlighter*
-    
-    
-    switch to next color format: ^ + ⇧ + , or .
-    open color picker: ^ + ⇧ + C
-
-    
 
 *Select text:*
     
@@ -52,7 +43,6 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
 
 *Multiple selections*
     
-    
     next occurrence: ⌘ + D
     all occurrence: ^ + ⌘ + G
     of selected lines: ⌘ + ⇧ + L
@@ -62,7 +52,6 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
     
 
 *Line modifications*
-    
     
     move lines up/down: ^ + ⌘ + ↑ or ↓
     join next line with current: ⌘ + J
@@ -76,14 +65,12 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
 
 *Math*
     
-    
     evaluate math expression: ⌘ + ⇧ + Y
     increase/decrease number by 1: ⌥ + ↑ or ↓
     increase/decrease number by 10: ⌥ + ⌘ + ↑ or ↓
     
 
 *Misc*
-    
     
     upcase/downcase: ⌘ + K + U/L
     fold html codes: ⌘ + K + T
@@ -93,12 +80,14 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
 
 *Basic*
     
-    
     indent: ⌘ + ] or [
     comment: ⌘ + /
     paste with indentation: ⌘ + ⇧ + V
     word navigation: ⌥ + ↑ or ↓
     line navigation: ⌘ + ↑ or ↓
-    
 
 
+*Color Highlighter*
+
+    switch to next color format: ^ + ⇧ + , or .
+    open color picker: ^ + ⇧ + C
