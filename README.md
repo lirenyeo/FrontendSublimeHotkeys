@@ -5,6 +5,8 @@ A collection of MacOS Sublime hotkeys I use frequently as a frontend developer d
 ## Getting Started
 Every hotkey here is the default from MacOS Sublime 3 and Packages that I installed.
 
+No custom key mapping is required.
+
 ### Prerequisites
 The foollowing Sublime Packages are needed for these hotkeys to work:
 * [Emmet](https://emmet.io/) - The essential toolkit for web developer
