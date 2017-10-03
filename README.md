@@ -33,7 +33,7 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
     go to matching tag pair: ^ + ⇧ + T
 
 
-*Select text:*
+*Highlight text:*
     
     the opening and closing HTML tags: ⌘ + ⇧ + K
     content between html tag: ^ + D
@@ -48,19 +48,18 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
     of selected lines: ⌘ + ⇧ + L
     hold ⌥ + mouse drag
 
-    select current line, then next: ⌘ + L
+    highlight from current line to the start of next line : ⌘ + L
     
 
 *Line modifications*
     
     move lines up/down: ^ + ⌘ + ↑ or ↓
-    join next line with current: ⌘ + J
     
     duplicate entire line: ⌘ + ⇧ + D
     
-    delete entire line: ^ + ⇧ + K
-    delete empty line after: ^ + K
-    make next line combine with current line: ⌘ + J
+    delete current line: ^ + ⇧ + K
+    delete the empty line after: ^ + K
+    join next line with current line: ⌘ + J
     
 
 *Math*
@@ -83,8 +82,8 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
     indent: ⌘ + ] or [
     comment: ⌘ + /
     paste with indentation: ⌘ + ⇧ + V
-    word navigation: ⌥ + ↑ or ↓
-    line navigation: ⌘ + ↑ or ↓
+    word navigation: ⌥ + → or ← 
+    line navigation: ⌘ + → or ←
 
 
 *Color Highlighter*
