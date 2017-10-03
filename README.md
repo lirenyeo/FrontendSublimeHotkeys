@@ -71,10 +71,15 @@ The foollowing Sublime Packages are needed for these hotkeys to work:
 
 *Misc*
     
-    upcase/downcase: ⌘ + K + U/L
+    upcase selection: ⌘ + K + U
+    downcase selection: ⌘ + K + L
+    
     fold html codes: ⌘ + K + T
     fold {} in levels: ⌘ + K + <number>
     unfold everything: ⌘ + K + J
+    
+    show/hide Sidebar: ⌘ + K + B
+    
     
 
 *Basic*
